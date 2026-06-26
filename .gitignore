@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Flutter
+.dart_tool/
+build/
+
+# VS Code
+.vscode/
+
+# AI Models
+models/*.onnx
+models/*.pth
+
+# Environment
+.env
